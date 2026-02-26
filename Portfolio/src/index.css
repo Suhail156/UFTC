@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  /* Exact Qatari Maroon (Al-Adaam) */
+  --color-primary: #8A1538;
+  /* Dark slate for secondary text */
+  --color-secondary: #1e293b;
+  /* Silk White for backgrounds */
+  --color-uftc-light: #fdfdfd;
+  /* Gold accent from high-end Qatari branding */
+  --color-accent: #b29762;
+}
